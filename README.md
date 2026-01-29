@@ -1,1 +1,1 @@
-# Python
+This is Python quiz
